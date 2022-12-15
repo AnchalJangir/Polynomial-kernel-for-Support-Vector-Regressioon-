@@ -1,6 +1,6 @@
 # Polynomial-kernel-for-Support-Vector-Regressioon-
-# Linear-Kernel-for-Support-Vector-regression
-Creating a linear kernel code for a Support Vector Regression Problem for a concrete data set.
+
+Creating a polynomial kernel code for a Support Vector Regression Problem for a concrete data set.
 Importing all the libraries we need.
 First read the data excel file using "pd.read_excel" and check if there are any missing values if any then fill the missing values by their column means respectively.
 furthermore normalizing the data importing "MinMaxScaler".
